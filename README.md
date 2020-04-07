@@ -1,4 +1,4 @@
 # hello
-Hello World
+这是一个java的调试文件夹
 
-local change 4.4
+一个问题需要解决，乱码，先是源代码中的乱码，现在是运行也出现了乱码
